@@ -1,9 +1,9 @@
 # Planet-Terraformer
 
 Controls:
-Space - Fire
-A & D - Left & Right
-R - Resets the game - use this when you get a game over or a win
+| Space - Fire |
+| A & D - Left & Right |
+| R - Resets the game - use this when you get a game over or a win |
 
 About the Game:
 Humanity is moving to the stars, but it seems habitable planets are hard to come by. However, this is no worry to you, so maginficant Planet Terraformer.
